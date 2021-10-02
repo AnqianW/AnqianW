@@ -4,19 +4,22 @@
 
 
 
-- 🌟 Motto: Once you replace negative thoughts with positive ones, you'll start having positive results.
-- 🌱 Hobby: Coding & 🛹 Skateboard & 🥋 Martial Arts & 🥏 Flying Disc & more.
-
+- 🌟 Motto: Your level of success will seldom exceed your level of personal development.
+- 🌱 Hobby: Coding & 🏸 Badminton & 🎭 Performing Arts & more.
+- 🏡 Hometown: China
 - 🏢 Office: Haikou, China
-- ⚡ Fun fact: Oops!😝😝😝
-- Good to meet you!
+
+- It is fun talking to you!
 
 #### 🛠 Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=default)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-29597F?style=flat-square&logo=PostgreSQL&logoColor=default)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=default)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=default)
+![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat-square&logo=CSS&logoColor=default)
+![React.JS](https://img.shields.io/badge/-React.js-35495c?&style=flat-square&logo=React&logoColor=default)
 
 #### :trophy: Coding Info
 
